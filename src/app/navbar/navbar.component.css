@@ -1,8 +1,12 @@
 img{
-    width: 60px;
+    width: 50px;
     margin: 5px;
     color: rgb(221, 210, 231);
 }
 #logo{
     width: 150px;
     }
+    .navbar-brand{
+        height: 100px;
+      }
+      
