@@ -1,0 +1,17 @@
+.row{
+    margin: 0px;
+    padding: 10px;
+}
+div{
+    background-color: rgba(113, 131, 211, 0.4);
+}
+.conteiner{
+    background-color: rgba(113, 131, 211, 0.4);
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+.img-proyect{
+    box-shadow: 10px 10px 30px #65e2f3;
+}
