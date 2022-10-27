@@ -12,6 +12,8 @@ import { BarrasComponent } from './components/barras/barras.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { DashboradComponent } from './components/dashborad/dashborad.component';
+import { IndexHtmlComponent } from './index.html/index.html.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +27,8 @@ import { FooterComponent } from './components/footer/footer.component';
     BarrasComponent,
     ProyectosComponent,
     FooterComponent,
+    DashboradComponent,
+    IndexHtmlComponent,
   ],
   imports: [
     BrowserModule,

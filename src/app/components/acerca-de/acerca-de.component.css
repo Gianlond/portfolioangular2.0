@@ -10,11 +10,11 @@ div{
 @media (min-width: 576px){
     #fotito{
         position:absolute;
-        width: 15%;
+        width: 13%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px rgb(219, 149, 149);
         left: 1.5%;
-        top: 600px;
+        top: 605px;
 }
 }
 @media (max-width: 575px){

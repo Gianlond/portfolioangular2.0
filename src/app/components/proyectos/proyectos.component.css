@@ -5,8 +5,10 @@
 div{
     background-color: rgba(113, 131, 211, 0.4);
 }
-.conteiner{
-    background-color: rgba(113, 131, 211, 0.4);
+.img-fluid {
+    max-width: 100%;
+    height: 100%;
+    margin-top: -100px;
 }
 .parte1, .parte2{
     display: inline-block;

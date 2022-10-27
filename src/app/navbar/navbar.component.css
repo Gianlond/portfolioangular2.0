@@ -1,6 +1,5 @@
 img{
     width: 50px;
-    margin: 5px;
     color: rgb(221, 210, 231);
 }
 #logo{
@@ -9,4 +8,6 @@ img{
     .navbar-brand{
         height: 100px;
       }
-      
+#instagram, #linkedin, #github{
+    padding: 5px;
+}
